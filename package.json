@@ -1,5 +1,6 @@
 {
   "name": "urls-to-regex",
+  "homepage": "https://sporkyy.github.io/urls-to-regex",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
